@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-04-17T09:52:54.447Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "874533004",
+        "path": "outstatic/content/lokalizacje/bielsko-biala.mdx"
+      },
+      "author": {
+        "name": "Miłosz Kraiński",
+        "picture": "https://avatars.githubusercontent.com/u/61127609?v=4"
+      },
+      "collection": "lokalizacje",
+      "publishedAt": "2026-04-17T10:04:40.955Z",
+      "slug": "bielsko-biala",
+      "status": "draft",
+      "title": "Bielsko-Biała"
+    }
+  ]
+}
